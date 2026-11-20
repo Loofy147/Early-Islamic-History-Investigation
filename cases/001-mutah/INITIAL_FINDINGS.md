@@ -1,49 +1,57 @@
-# Initial research memo — Mu'ta chronology and competing traditions
+# Initial research memo — Mu'ta and Theophanes' Mothous
 
 **Reviewed:** 2026-11-20  
 **Status:** preliminary; not a final reconstruction.
 
-## 1. What can currently be said
-There is a developed Islamic narrative tradition about an expedition/engagement at Mu'ta. David S. Powers' comparison identifies al-Waqidi as the earliest extant detailed account located by him. Theophanes' early ninth-century Greek chronicle contains a notice about an engagement at a place called Mothous, commonly identified with Mu'ta. The two traditions differ materially. Current evidence does not settle the date, independence of Theophanes' report, size and character of the opposing force, or the historicity and completeness of the stated cause.
+## 1. The crucial correction
+Do not write that Theophanes directly confirms the battle of Mu'ta. In the Mango–Scott translation, the chronicle narrates an engagement at **Mothous**, after mentioning a village called **Mouchea** where the vicarius Theodore was stationed. The translator's note explicitly says the identification of Mothous is unclear and lists alternatives (Ma'ab, Khirbat al-Mahna, Mu'an). The note separately states that the traditional Arab expedition to Mu'ta was dated 629. Therefore the identification Mothous = Mu'ta is a hypothesis, not a textual fact.
 
-## 2. Islamic narrative chronology
-Powers reports that al-Waqidi compiles 29 reports with isnads and places Mu'ta between raids in Safar/Rabi I and the conquest of Mecca, suggesting year 8 AH. Powers notes that al-Waqidi does not explicitly state the month and year in the battle narrative. A dated notice in Ibn Ishaq as transmitted by Ibn Hisham places it in Jumada I of year 8 AH with an isnad ending in Urwa b. al-Zubayr, according to Powers. The exact Arabic text, manuscript/edition variants and isnad need direct collation.
+## 2. What the Theophanes passage actually says
+Under AM 6123 [AD 630/1], the chronicle lists Herakleios in his 22nd year and Aboubacharos, leader of the Arabs, in his first year. It says Mouamed, who had died earlier, had appointed four emirs to fight Christian Arabs. They came before Mouchea; the vicarius Theodore, alerted by a Qurayshite informant, attacked them at Mothous. The chronicle says three emirs and most of the force were killed, while one emir called Chaled escaped. It then gives a story about neighbouring Arabs receiving imperial payments for guarding the approaches to the desert and defecting after a pay dispute.
 
-## 3. Theophanes and source independence
-Theophanes died in 818 CE and is therefore not a contemporary witness to a seventh-century event. His notice may draw on earlier materials, but the genealogy of those materials is disputed. If a Greek or Syriac intermediary independent of Arabic-Islamic historiography lies behind the passage, the notice could be an external witness. If it derives from an Arabic-Islamic report, it is not independent corroboration merely because it is preserved in Greek. Lawrence I. Conrad's article on intercultural transmission is central and has not yet been read in full.
+The passage is not a transparent battle report. It contains an interpretive narrative about religious groups, an informer, military action, imperial payrolls and Arab defection. Each element must be recorded separately as a claim about what Theophanes reports.
 
-## 4. Chronological divergence
-Powers and Shoemaker discuss a Theophanes chronology that they associate with Abu Bakr's first year, in contrast to the conventional Sira date. The underlying synchronisms and their conversion require verification against the Greek text and critical edition. Do not resolve this by choosing whichever date supports a preferred historical theory.
+## 3. Chronological difficulty inside the chronicle
+The entry is explicitly labelled AM 6123 [AD 630/1] and puts Aboubacharos in his first year. It also says Muhammad had died earlier. Yet an editorial note on the preceding page states that Muhammad died in 632. This means the chronological placement and the narrative sequence cannot be read as a straightforward accurate timeline. The next entries place Aboubacharos in his second year under AM 6124 [AD 631/2] and in his third year under AM 6125 [AD 632/3]. The sequence requires comparison with independent chronology and the chronicle's synchronisms.
 
-## 5. Force composition and topography
-E. A. Knauf's 1987 paper argues from Transjordanian topography, routes, tribal geography and the post-Sasanian context that the opposing force may have been local Arab groups associated with the Byzantine frontier. Knauf characterizes the event, from the local opponents' perspective, as a relatively ordinary tribal skirmish, while the Muslim tradition could frame it as a major beginning of the conquest of Syria. This is a distinct interpretation, not an established fact. Shoemaker likewise questions the presence of regular Roman troops at Mu'ta and emphasizes the limited evidence for a Roman garrison there. These arguments require comparison with Kaegi's analysis of Byzantine reassertion and local military structures.
+Do not simply say that Theophanes places Mu'ta in Abu Bakr's first year. The more exact statement is: Theophanes places a Mothous engagement in AM 6123 [AD 630/1], with Aboubacharos in the first year of his leadership as the chronicle calculates it; the identity of this event with Mu'ta is uncertain and the chronology conflicts with the note's 632 date for Muhammad's death.
 
-## 6. Competing modern reconstructions
-- **Powers:** highlights narrative construction, chronological issues and the possibility that traditions about Zayd were reshaped in later theological/genealogical contexts. His wider thesis is not a consensus and must be tested separately from his narrower source observations.
-- **Shoemaker:** argues that the date and relationship to the Palestinian campaign are less secure than common accounts imply; he considers Theophanes potentially valuable for an older chronology, while also accepting arguments for dependence on early Islamic sources.
-- **Knauf:** reconstructs the encounter as a local frontier/tribal clash and interprets it in the context of the movement into southern Syria.
-- **Kaegi:** provides a broader Byzantine strategic and military reconstruction; must be read as a competing framework rather than assumed neutral ground truth.
+## 4. Islamic narrative chronology
+Powers identifies al-Waqidi as the earliest extant detailed account in his comparison. He says al-Waqidi places the narrative within a sequence suggesting year 8 AH, but does not explicitly state month and year in the battle account. A dated notice in Ibn Ishaq as transmitted by Ibn Hisham associates Mu'ta with Jumada I, year 8 AH, according to Powers. Direct Arabic collation and isnad/variant analysis remain outstanding.
 
-## 7. Provisional claim status
+## 5. Modern interpretations are competing, not interchangeable
+- **Powers:** emphasizes differences between the Islamic narratives and Theophanes, source dependence and possible later narrative shaping. His broader thesis is not consensus.
+- **Shoemaker:** questions the conventional chronology and the location/strength of Byzantine regular troops; he discusses Theophanes as potentially preserving an older or different chronological tradition, while also considering dependence on early Islamic sources.
+- **Knauf:** reconstructs the encounter as a local frontier/tribal clash using routes, tribal territories and the post-Sasanian setting. His identification of the Theophanes passage with Mu'ta must now be tested against the translation's explicit caveat that Mothous is not securely identified.
+- **Kaegi:** provides a broader Byzantine strategic and frontier reconstruction; must be evaluated separately from local topographical hypotheses.
+
+## 6. Current claim statuses
 | Claim | State | Reason |
 |---|---|---|
-| Later Islamic works preserve a detailed Mu'ta narrative | ESTABLISHED as a fact about the literary tradition | Textual presence is clear; this does not establish every event detail |
-| Al-Waqidi is the earliest extant detailed account found by Powers | REPORTED | Attribution to Powers; survey of all extant fragments not independently complete |
-| Al-Waqidi explicitly dates the battle to Jumada I 8 AH | CONTRADICTED as worded | Powers says his account does not explicitly state month/year |
-| Ibn Ishaq material transmitted by Ibn Hisham gives Jumada I 8 AH | REPORTED | Must verify the Arabic passage and transmission directly |
-| Theophanes reports an engagement at Mothous | REPORTED | Greek chronicle passage; exact wording/locus still to verify |
-| Theophanes is an independent non-Islamic witness | DISPUTED | Source dependence is unresolved |
-| A regular Byzantine imperial army fought at Mu'ta | UNKNOWN | Evidence reviewed does not establish force composition |
-| Killing of the envoy was the historical and sole cause | REPORTED for the Islamic narrative; UNKNOWN historically | No independent verification or proof of sole causation yet |
-| Mu'ta directly transferred sovereignty over territory | UNKNOWN / not established | No evidence reviewed for durable local incorporation caused by the engagement |
+| Later Islamic works preserve a developed Mu'ta narrative | ESTABLISHED as literary fact | Presence of the tradition is clear; detail historicity is a separate question |
+| Al-Waqidi explicitly dates Mu'ta to Jumada I 8 AH | CONTRADICTED as worded | Powers says the battle account lacks an explicit month/year |
+| Ibn Ishaq material via Ibn Hisham gives Jumada I 8 AH | REPORTED | Must collate the Arabic text and transmission |
+| Theophanes narrates an engagement at Mothous | REPORTED | Explicit in the translated chronicle |
+| Theophanes' Mothous is the same location/event as Mu'ta | DISPUTED | Translator's own note calls identification unclear and gives alternatives |
+| Theophanes places the Mothous engagement under AM 6123 [AD 630/1] | REPORTED | Explicit year heading in the translated chronicle |
+| Theophanes' chronology is internally straightforward and consistent with 632 death of Muhammad | CONTRADICTED as worded | AM 6123 [AD 630/1] says Muhammad had died earlier; note gives 632 for his death |
+| Theophanes independently corroborates Mu'ta | UNKNOWN / DISPUTED | Event identity and source genealogy both unresolved |
+| A large regular Byzantine imperial army fought at Mu'ta | UNKNOWN | Evidence remains insufficient |
+| The envoy's killing was the sole historical cause | UNKNOWN | It is the reported narrative cause, not independently verified or proven exclusive |
+| Mu'ta directly transferred sovereignty | UNKNOWN | No evidence reviewed establishes territorial incorporation as a direct outcome |
 
-## 8. Important limitation
-The current assessment is built on selected chapters and extracted text from modern works, plus bibliographic checks. It is not yet based on a full collation of the primary Arabic and Greek texts. Every claim must retain that limitation until the next source audit.
+## 7. What has actually been inspected
+- Selected passages in Powers, chapter 5, pp. 72–90.
+- Selected passages in Shoemaker, pp. 107–110 and related note.
+- Text and footnotes on Theophanes, *Chronographia*, AM 6123 [AD 630/1], translated text pp. 465–466 in the inspected extract.
+- Knauf's paper in the 1987 Bilad al-Sham proceedings, selected text around pp. 73–75.
 
-## 9. Next falsification tests
-1. Does the Greek text's wording actually identify the same place and event?
-2. Can its synchronisms be reconciled without arbitrary date conversion?
-3. Is there evidence of a Greek/Syriac source intermediary independent of Muslim narrative transmission?
-4. Are local tribal force structures and imperial deployment distinguishable from the sources?
-5. Does the conventional cause appear independently or only within one connected narrative stream?
-6. Are there any documentary, epigraphic or archaeological traces of a political outcome after the engagement?
+This is not a full collation of primary Arabic or Greek editions. It is a preliminary cross-reading of selected scholarly and translated passages.
+
+## 8. Next falsification tests
+1. Does the Greek original say two distinct toponyms, and what variants exist across manuscripts?
+2. Can the Mothous location be independently matched with Mu'ta, Ma'ab, Mu'an or Khirbat al-Mahna?
+3. Why does the chronicle place Aboubacharos' first year and Muhammad's death as it does? Which synchronisms are defective?
+4. Is Theophanes dependent on a distinct Greek/Syriac source, Arabic tradition, or a chain of mixed information?
+5. Does Knauf's identification survive when tested against the printed translator's site-identification warning?
+6. Are the Islamic narrative's envoy, motive and force details independently attested?
