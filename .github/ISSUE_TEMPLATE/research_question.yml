@@ -1,0 +1,40 @@
+name: Research question
+description: Register a bounded historical question for investigation
+title: "[Research question] "
+labels: ["research"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question
+      description: State one bounded, answerable question.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and assumptions
+      description: Dates, geography, actors, terms and initial assumptions to test.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence needed
+      description: Sources, editions, documents or material evidence to inspect.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Competing explanations
+      description: At least two plausible explanations or interpretations.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Expected artifact
+      description: Which case, source, claim or event records should change?
+    validations:
+      required: true
