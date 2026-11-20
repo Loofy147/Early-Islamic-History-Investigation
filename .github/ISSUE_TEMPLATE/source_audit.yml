@@ -1,0 +1,45 @@
+name: Source audit
+description: Audit a primary or secondary source and its evidential limits
+title: "[Source audit] "
+labels: ["source-critical"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source ID or full reference
+      placeholder: SRC-000X
+    validations:
+      required: true
+  - type: input
+    id: edition
+    attributes:
+      label: Edition / translation
+      description: Include edition, editor, translator and publication data.
+    validations:
+      required: true
+  - type: input
+    id: locus
+    attributes:
+      label: Exact locus
+      placeholder: Page, chapter, report number, folio, inscription ID or line.
+    validations:
+      required: true
+  - type: textarea
+    id: source-criticism
+    attributes:
+      label: Source criticism
+      description: Date, proximity, genre, purpose, transmission, dependence and textual condition.
+    validations:
+      required: true
+  - type: textarea
+    id: evidential-reach
+    attributes:
+      label: What it can and cannot establish
+    validations:
+      required: true
+  - type: textarea
+    id: variants
+    attributes:
+      label: Variants and contrary evidence
+    validations:
+      required: false
