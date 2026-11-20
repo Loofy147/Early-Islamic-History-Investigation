@@ -1,0 +1,23 @@
+# SRC-XXXX — [short title]
+
+- Full title:
+- Creator / compiler / transmitter:
+- Date of composition or production:
+- Date of events described:
+- Genre:
+- Original language:
+- Earliest known manuscript / artifact:
+- Edition / translation actually inspected:
+- Exact locus:
+- Stable URL / DOI:
+- Access date:
+- Proximity to event:
+- Transmission history:
+- Source dependence:
+- Audience and likely purpose:
+- Political / social / institutional context:
+- Textual or translation uncertainties:
+- What this source can support:
+- What it cannot establish:
+- Review status:
+- Reviewer notes:
